@@ -16,7 +16,7 @@ export default class Header extends Component {
     return (
       <>
         <Navbar
-        //   fixed="top"
+          //   fixed="top"
           collapseOnSelect
           expand="md"
           bg="light"
